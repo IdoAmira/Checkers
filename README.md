@@ -23,6 +23,7 @@ In this screen the user chooses against whom he wants to play and the size of th
 
 ![6](https://user-images.githubusercontent.com/68790040/137162901-934576f6-9a7c-44af-b77b-d4deade920d3.JPG)
 6X6 Squares
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ![note](https://user-images.githubusercontent.com/68790040/137162902-4b7e189b-28fd-499a-ae71-3d1ccc6b525f.JPG)
