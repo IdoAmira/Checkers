@@ -1,7 +1,6 @@
 ## Checkers
 
 ![checkers](https://user-images.githubusercontent.com/68790040/137165726-7b499d68-5a29-4406-89d3-6b3efb522098.png)
--44b3-b154-08bb566c6006.JPG)
 
 Checkers game written in C # with WinForm
 
